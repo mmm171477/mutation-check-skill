@@ -1,0 +1,9 @@
+KILLED   remove cap check
+KILLED   cap boundary > to >=
+KILLED   allow negative price
+KILLED   skip type check on price
+KILLED   allow negative percent
+KILLED   ignore custom cap
+KILLED   break rounding
+
+7/7 mutations killed
